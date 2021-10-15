@@ -1,0 +1,125 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10%;
+}
+
+#CARS {
+    display: flex;
+    width: 700px;
+    height: 400px;
+}
+
+#SEDANS  {
+    background-color: hsl(31, 77%, 52%);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+#SEDANS p {
+    font-size: 15px;
+    font-weight: 400px;
+    color:hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 70px;
+}
+
+#SEDANS h2 {
+    color: hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display";
+}
+
+#SEDANS a {
+        background-color: white;
+        padding: 14px 25px;
+        border-radius: 30px;
+        color: hsl(31, 77%, 52%);
+        text-decoration: none;
+}
+    
+#SEDANS a:active {
+    background-color:hsl(31, 77%, 52%);
+    color: white;
+    border-radius: 30px;
+    border-color:white;
+} 
+#SUVS {
+    background-color: hsl(184, 100%, 22%);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+#SUVS p {
+    font-size: 15px;
+    font-weight: 400px;
+    color:hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 70px;
+}
+#SUVS a{
+    background-color: white;
+    padding: 14px 25px;
+    border-radius: 30px;
+    color: hsl(184, 100%, 22%);
+    text-decoration: none;
+
+}
+
+#SUVS a:active{
+    background-color: hsl(184, 100%, 22%);
+    color: white;
+    border-radius: 30px;
+    border-color:white;
+}
+
+
+#SUVS h2 {
+    color: hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display";
+}
+
+#LUXURY {
+    background-color: hsl(179, 100%, 13%);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+#LUXURY p {
+    font-size: 15px;
+    font-weight: 400px;
+    color:hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 70px;
+}
+
+#LUXURY a{
+    background-color: white;
+    padding: 14px 25px;
+    border-radius: 30px;
+    color:hsl(179, 100%, 13%) ;
+    text-decoration: none;
+}
+
+#LUXURY a:active {
+    background-color:hsl(179, 100%, 13%) ;
+    color: white;
+    border-radius: 30px;
+    border-color:white;
+}
+
+#LUXURY h2 {
+    color: hsl(0, 0%, 95%);
+    font-family: "Lexend Deca";
+    
+}
+
+
+
+
+
+
+
+
+
